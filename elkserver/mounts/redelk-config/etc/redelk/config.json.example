@@ -33,6 +33,10 @@
         "slack": {
             "enabled": false,
             "webhook_url": "INSERT_SLACK_WEBHOOK_URL_HERE"
+        },
+        "mattermost": {
+            "enabled": false,
+            "webhook_url": "INSERT_MATTERMOST_WEBHOOK_URL_HERE"
         }
     },
     "alarms": {
